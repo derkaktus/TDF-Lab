@@ -3,6 +3,14 @@
 
 ## Transportnetz 172.31.254.0/24
 
+Beschreibung: Netzkopplung Testnetzwerk jeberhardt <-> Testnetzwerk derkaktus
+IP  | Beschreibung
+----| -------------
+.00 | Netz ID
+.01 | derkaktus_testbeet
+.02 | jeberhardt_tdflab
+.03 | Netzmaske
+
 Beschreibung: Netzwerk jeberhardt_opensense_printer - derkaktus_printer
 IP  | Beschreibung
 ----| -------------
@@ -11,7 +19,7 @@ IP  | Beschreibung
 .06 | jeberhardt_opensense_printer
 .07 | Netzmaske
 
-Content from cell 1 | Content from cell 2
+
 
 
 ## Transportnetz 172.31.255.0/24
